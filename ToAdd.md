@@ -22,7 +22,8 @@
 - Vim / Neovim
 - other text editors?
 - CommitLint (with usage instructions)
-
+- Screen
+- Tmux
 
 
 ## Online tools
@@ -31,7 +32,9 @@
 - Hoppscotch
 - Postman
 - JWT.io
-
+- Swagger / OpenAPI kit
+- Insomnia / API
+- ngrok - expose api to the web somewhat securely
 
 
 # Higher Level
