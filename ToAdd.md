@@ -30,6 +30,9 @@
 - hyfetch
 - htop / btop++ / other 'top' tools
 - nnn?
+- zoxide
+- httpie
+- gdp-dashboard
 
 
 ## Online tools
