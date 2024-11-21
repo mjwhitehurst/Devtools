@@ -18,12 +18,18 @@
 - Tabby
 
 
-## Command Line tools
+## Command Line / Linux tools
 - Vim / Neovim
 - other text editors?
 - CommitLint (with usage instructions)
 - Screen
 - Tmux
+- ripgrep
+- bat-cat (https://github.com/sharkdp/bat)
+- fuck
+- hyfetch
+- htop / btop++ / other 'top' tools
+- nnn?
 
 
 ## Online tools
