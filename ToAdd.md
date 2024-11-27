@@ -1,4 +1,4 @@
-#Things To Add (this list may be terribly formatted, incomplete, full of junk, all of the above):
+# Things To Add (this list may be terribly formatted, incomplete, full of junk, all of the above):
 
 
 - Context of prev development experience (remote into linux machines) to explain who this list should be useful to
@@ -48,3 +48,8 @@
 
 # Higher Level
 - Free educational stuff?
+- Note Taking
+  * Obsidian? plus plugins?
+  * lemons search
+  * custom frames
+  * obsidian-timeline
