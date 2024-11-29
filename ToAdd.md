@@ -53,3 +53,4 @@
   * lemons search
   * custom frames
   * obsidian-timeline
+- Markdown Cheatsheet
